@@ -4,3 +4,5 @@ Este projeto de aprendizagem, simula um joguinho onde o usuário digita um núme
 até que ele acerte o número criado de forma aleatória.
 
 Este projeto utiliza conceitos de html, css e javascript e pode ser conferido em https://game-numero-secreto-flax.vercel.app/
+
+Obrigado pela sua visita.
